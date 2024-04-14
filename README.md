@@ -1,4 +1,4 @@
-This is one of my portfolio website
+This is one of my portfolio websites
 
 ## Repository
 The GitHub repository for this project can be found [here](https://github.com/hurairtaqvi/personalwebsitewithportfolio).
